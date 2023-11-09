@@ -125,6 +125,10 @@ const bluanothor = Color.fromRGBO(9, 67, 127, 1);
 const sevensgbg = Color.fromRGBO(26, 26, 26, 1);
 const blackgray = Color.fromRGBO(88, 88, 88, 1);
 const greenblur = Color.fromRGBO(143, 173, 129, 1);
+const bottomtacolor = Color.fromRGBO(38, 37, 37, 1);
+const redbtm = Color.fromRGBO(218, 54, 41, 1);
+const greenbg = Color.fromRGBO(158, 237, 120, 1);
+const walletinner = Color.fromRGBO(28, 39, 38, 1);
 
 
 
